@@ -1,3 +1,6 @@
+<br>**AUTHOT**
+<br> Josmin Jose
+
 # Pivot-Point-Trading-Strategy
 As a part of my Capstone project at WQU, I'm excited to present a highly effective trading strategy that leverages the power of the pivot point indicator and comprehensive price movement analysis to yield profitable results <br>
 
@@ -7,9 +10,6 @@ As a part of my Capstone project at WQU, I'm excited to present a highly effecti
 <br>**The main objectives would be**<br>
 <br>1. Evaluate the standalone effectiveness of the Pivot Indicator in the Indian stock market, specifically assessing its ability to accurately identify pivot points, support, and resistance levels to enhance overall trading decisions.<br>
 <br>2. Develop a profitable trading strategy tailored to the Indian stock market, with a primary focus on identifying optimal entry and exit points that contribute to the success of trades.<br>
-
-<br>**AUTHOT**
-<br> Josmin Jose
 
 <br>**EXTERNAL TOOLS REQUIRED**<be>
 <br> Python version 3.10 - See https://wiki.python.org/moin/BeginnersGuide/Download for installation.
