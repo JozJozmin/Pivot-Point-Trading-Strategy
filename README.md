@@ -26,13 +26,15 @@
 <br>* Backtesting Module: Backtesting of the trading strategy on historical data to assess its performance.
 <br>* Results Analysis: Analysis of trading results including win-loss ratio, risk assessment, and holding duration.
 
-<br>**EXTERNAL TOOLS REQUIRED**<be>
-<br> Python version 3.10 - See https://wiki.python.org/moin/BeginnersGuide/Download for installation.
+<br>**EXTERNAL TOOLS REQUIRED**<br>
+<br> Python version 3.10.12 - See https://wiki.python.org/moin/BeginnersGuide/Download for installation.
 <br> pip - Is included with Python 3.10
 <br> Numpy - see https://docs.scipy.org/doc for more information
 <br> Pandas - see http://pandas.pydata.org for more information
 <br> Matplotlib - see https://matplotlib.org/contents.html for more information
 <br> yfinance - see https://pypi.org/project/fix-yahoo-finance for more information
 <br>Trading View -see https://in.tradingview.com
+
+
 
 
