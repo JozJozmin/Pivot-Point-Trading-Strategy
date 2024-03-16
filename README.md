@@ -1,12 +1,20 @@
 # Pivot-Point-Trading-Strategy
 
-<br>**AUTHOT**
-<br> Josmin Jose
+<br>**TABLE OF CONTENTS**
+<br>1. Overview
+<br>2. Features
+<br>3. Requirements
+<br>4. Usage
+<br>5. Configuration
+<br>6. Results
+<br>7. Contributing
+<br>8. License
+<br>9. Acknowledgements
+<br>10. Contact
 
-As a part of my Capstone project at WQU, I'm excited to present a highly effective trading strategy that leverages the power of the pivot point indicator and comprehensive price movement analysis to yield profitable results <br>
 
-<br>**GOAL & OBJECTIVES**
-<br> The primary goal of this project is to identify current price trend patterns, support and resistance levels in the Indian stock market, with the aim of establishing potential entry and exit points. This involves providing actionable insights for traders and investors based on breakout patterns identified in the Indian market.<br> 
+<br>**OVERVIEW**
+<br> This repository contains the implementation of the trading strategy proposed in the research paper. The strategy utilizes pivot points and price pattern analysis to identify potential breakout opportunities in the Indian stock market.
 
 <br>**The main objectives would be**<br>
 <br>1. Evaluate the standalone effectiveness of the Pivot Indicator in the Indian stock market, specifically assessing its ability to accurately identify pivot points, support, and resistance levels to enhance overall trading decisions.<br>
