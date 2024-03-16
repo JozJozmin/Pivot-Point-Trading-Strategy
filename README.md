@@ -26,7 +26,7 @@
 <br>* Backtesting Module: Backtesting of the trading strategy on historical data to assess its performance.
 <br>* Results Analysis: Analysis of trading results including win-loss ratio, risk assessment, and holding duration.
 
-<br>**EXTERNAL TOOLS REQUIRED**<br>
+<br>**TOOLS REQUIRED**<br>
 <br> Python - See https://wiki.python.org/moin/BeginnersGuide/Download for installation.
 <br> Numpy - see https://docs.scipy.org/doc for more information
 <br> Pandas - see http://pandas.pydata.org for more information
