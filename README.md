@@ -27,8 +27,7 @@
 <br>* Results Analysis: Analysis of trading results including win-loss ratio, risk assessment, and holding duration.
 
 <br>**EXTERNAL TOOLS REQUIRED**<br>
-<br> Python version 3.10.12 - See https://wiki.python.org/moin/BeginnersGuide/Download for installation.
-<br> pip - Is included with Python 3.10
+<br> Python - See https://wiki.python.org/moin/BeginnersGuide/Download for installation.
 <br> Numpy - see https://docs.scipy.org/doc for more information
 <br> Pandas - see http://pandas.pydata.org for more information
 <br> Matplotlib - see https://matplotlib.org/contents.html for more information
