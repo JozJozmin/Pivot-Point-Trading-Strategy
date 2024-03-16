@@ -8,7 +8,16 @@ As a part of my Capstone project at WQU, I'm excited to present a highly effecti
 <br>1. Evaluate the standalone effectiveness of the Pivot Indicator in the Indian stock market, specifically assessing its ability to accurately identify pivot points, support, and resistance levels to enhance overall trading decisions.<br>
 <br>2. Develop a profitable trading strategy tailored to the Indian stock market, with a primary focus on identifying optimal entry and exit points that contribute to the success of trades.<br>
 
+<br>**AUTHOT**
+<br> Josmin Jose
 
-<br>**EXTERNAL TOOLS REQUIRED FOR THIS PROJECT**<be>
-<br>Trading View <br>
+<br>**EXTERNAL TOOLS REQUIRED**<be>
+<br> Python version 3.10 - See https://wiki.python.org/moin/BeginnersGuide/Download for installation.
+<br> pip - Is included with Python 3.10
+<br> Numpy - see https://docs.scipy.org/doc for more information
+<br> Pandas - see http://pandas.pydata.org for more information
+<br> Matplotlib - see https://matplotlib.org/contents.html for more information
+<br> yfinance - see https://pypi.org/project/fix-yahoo-finance for more information
+<br>Trading View -see https://in.tradingview.com
+
 
