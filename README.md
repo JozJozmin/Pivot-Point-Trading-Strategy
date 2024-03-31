@@ -14,7 +14,7 @@
 
 
 <br>**OVERVIEW** <br>
-<br> This repository contains the code and documentation for implementing a swing trading strategy proposed in the research paper as a part of my capstone project. This stractegy is based on pivot point analysis and price patterns for high-cap stocks listed on the National Stock Exchange (NSE) of India. The strategy aims to identify potential breakout opportunities and optimize entry and exit points for profitable trading.<br>
+<br> This repository contains the code and documentation for implementing a swing trading strategy proposed in the research paper as a part of my capstone project from WorldQuant University. This stractegy is based on pivot point analysis and price patterns for high-cap stocks listed on the National Stock Exchange (NSE) of India. The strategy aims to identify potential breakout opportunities and optimize entry and exit points for profitable trading.<br>
 
 <br>**The main objectives would be**<br>
 <br>1. Evaluate the standalone effectiveness of the Pivot Indicator in the Indian stock market, specifically assessing its ability to accurately identify pivot points, support, and resistance levels to enhance overall trading decisions.<br>
