@@ -56,11 +56,13 @@ Other Strategy Parameters
 <br>All configuration changes can be made directly in the notebook cells before running the analysis.<br>
 
 <br>**RESULTS**<br>
-<br>The analysis identified 335 breakouts among the top 100 high-cap NSE stocks over an 8-month period. Breakouts occurred most frequently on Wednesdays (78), followed by Fridays (68) and Tuesdays (67), with Mondays having the fewest.Price movement analysis across holding periods from 20 to 40 days revealed that longer holding durations increase the likelihood of positive returns but also raise exposure to larger drawdowns. The percentage of stocks with price increments rose from 62.8% at 20 days to 66.8% at 40 days, while average upward movement increased from 0.8% to 2.2%.Backtesting with a 40-day holding period resulted in 295 valid trades. An initial investment of ₹25,000 per trade (totaling ₹7,375,000) produced the following outcomes:<br>
+<br>The analysis identified 335 breakouts among the top 100 high-cap NSE stocks over an 8-month period. Breakouts occurred most frequently on Wednesdays (78), followed by Fridays (68) and Tuesdays (67), with Mondays having the fewest.<br>
+<br>Price movement analysis across holding periods from 20 to 40 days revealed that longer holding durations increase the likelihood of positive returns but also raise exposure to larger drawdowns. The percentage of stocks with price increments rose from 62.8% at 20 days to 66.8% at 40 days, while average upward movement increased from 0.8% to 2.2%.<br>
+<br>Backtesting with a 40-day holding period resulted in 295 valid trades. An initial investment of ₹25,000 per trade (totaling ₹7,375,000) produced the following outcomes:<br>
 <br>Winning probability: 55.2%
 <br>Win-loss ratio: 1.23
 <br>Total return: ₹7,616,226
 <br>ROI: 3.3%
-<br>Average profit per trade: ₹818
+<br>Average profit per trade: ₹818<br>
 <br>The equity curve illustrates consistent growth, supporting the effectiveness of the pivot point–based swing trading strategy in the Indian stock market.<br>
 
