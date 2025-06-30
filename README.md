@@ -37,6 +37,21 @@
 <br> yfinance - see https://pypi.org/project/fix-yahoo-finance for more information
 <br>Trading View -see https://in.tradingview.com
 
+<br>**USAGE**<br>
+<br>* Open the notebook on Google Colab (include badge/link)
+<br>* Or clone repo and run WQU_Capstone_Final_Day.ipynb locally
+<br>* Install dependencies with pip install -r requirements.txt
+<br>* Run cells sequentially to reproduce results
 
+<br>**CONFIGUREATION**<br>
 
+<br>**Stocks List** :Modify the file or list named stocks_list.csv (or the relevant variable in the notebook) to change which NSE stocks are included in the analysis.<br>
+<br>**Date Range** :Change the start and end dates in the notebook to analyze different time periods. For example:
+                 start_date = "2022-12-31",
+                  end_date = "2023-09-01" <br>
+<br>**Holding Period** :Adjust the holding duration parameter to test different trade exit timings. Default is 40 days but can be changed to optimize performance.<br>
+<br>**Pivot Point Settings** :If your code includes any pivot point calculation options (like pivot types or methods), you can modify these parameters for different sensitivity.<br>
+<br>**Risk Parameters** :Change risk management settings such as stop-loss thresholds or position sizing rules if implemented.
+Other Strategy Parameters<br>
+<br>All configuration changes can be made directly in the notebook cells before running the analysis.<br>
 
